@@ -3,9 +3,9 @@ This is the companion code repository for the paper:
 
 Can Deep Learning Assist Automatic Identification of Layered Pigments from XRF Data?
 
-Bingjie (Jenny) Xua, Yunan Wua, Pengxiao Haoa,b, Marc Vermeulena,c, Alicia McGeachya,d ,
-Kate Smithe, Katherine Eremine, Georgina Raynere, Giovanni Verri f , Florian Willomitzera,g,
-Matthias Alfeldh, Jack Tumblina, Aggelos Katsaggelosa and Marc Waltona,i∗
+Bingjie (Jenny) Xu, Yunan Wu, Pengxiao Hao, Marc Vermeulena, Alicia McGeachy,
+Kate Smith, Katherine Eremin, Georgina Rayner, Giovanni Verri, Florian Willomitzera,
+Matthias Alfeld, Jack Tumblin, Aggelos Katsaggelos and Marc Waltona
 
 Abstract: X-ray fluorescence spectroscopy (XRF) plays an important role for elemental analysis in a wide
 range of scientific fields, especially in cultural heritage. XRF imaging, which uses a raster scan to
