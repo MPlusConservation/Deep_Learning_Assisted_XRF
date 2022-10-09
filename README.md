@@ -1,7 +1,7 @@
 # Deep Learning Assisted XRF
 This is the companion code repository for the paper: 
 
-#Can Deep Learning Assist Automatic Identification of Layered Pigments from XRF Data?
+Can Deep Learning Assist Automatic Identification of Layered Pigments from XRF Data?
 
 Bingjie (Jenny) Xu, Yunan Wu, Pengxiao Hao, Marc Vermeulena, Alicia McGeachy,
 Kate Smith, Katherine Eremin, Georgina Rayner, Giovanni Verri, Florian Willomitzera,
