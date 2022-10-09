@@ -1,0 +1,2 @@
+model_deeper_bg_13.hdf5 : Model trained on the simulation dataset and no finetuning
+model_deeper_finetune_small_13.hdf5:  Model trained on the simulation dataset and finetuned on 20% of the experimental dataset
