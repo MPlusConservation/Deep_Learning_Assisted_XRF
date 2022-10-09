@@ -27,3 +27,4 @@ to lab-prepared mock-up paintings and two 19th-century paintings: Paul Gauguinâ€
 results to the analysis by elemental mapping, suggesting the generalizability and stability of our
 mode
 
+Data: https://nuwildcat.sharepoint.com/:f:/s/RCH-CSSA-PublicDatasets/ErWt1vvFVPJLlOJQsDvf4AcBC3XHnKl6DslHUSZANbMWGA?e=pxftVp
